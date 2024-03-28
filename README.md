@@ -19,7 +19,7 @@ Projects I worked on at the Le Wagon bootcamp:
 ## ✉️ Connect with me:
 
 <p>
- <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/mirela-m" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ## 🧰 Languages and Tools:
