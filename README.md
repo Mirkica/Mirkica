@@ -5,7 +5,7 @@ I'm Mirela, a passionate Web Developer based in London 👩🏻‍💻
 <hr>
 
 - 💻 I recently graduated from Le Wagon Web Development Bootcamp
-- 📖 I’m currently learning React
+- 📖 I’m currently learning React and building my portfolio
 - 📫 How to reach me: mirela.mustic00@gmail.com
 
 Projects I worked on at the Le Wagon bootcamp:
