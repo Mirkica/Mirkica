@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Mirela, a passionate Web Developer based in London 👩🏻‍💻
 
@@ -7,7 +7,6 @@ I'm Mirela, a passionate Web Developer based in London 👩🏻‍💻
 - 💻 I recently graduated from Le Wagon Web Development Bootcamp
 - 📖 I’m currently learning React
 - 📫 How to reach me: mirela.mustic00@gmail.com
-- 😄 Pronouns: She/Her
 
 Projects I worked on at the Le Wagon bootcamp:
 
@@ -16,6 +15,12 @@ Projects I worked on at the Le Wagon bootcamp:
   👼🏻 Angel App: A web app dedicated to empowering women by providing features like identifying the safest routes from point A to B, displaying real-time crime data and                 safe spaces near their current location, enabling users to report harassment incidents, and facilitating quick assistance requests.
 
 <hr>
+
+## ✉️ Connect with me:
+
+<p>
+ <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
 
 ## 🧰 Languages and Tools:
 <div align="center">
