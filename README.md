@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mirela, a passionate Developer based in London 👩🏻‍💻
+I'm Mirela, a passionate Web Developer based in London 👩🏻‍💻
 
 <hr>
 
